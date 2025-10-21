@@ -70,9 +70,9 @@ public class PenghitungUmurFrame extends javax.swing.JFrame {
             }
         });
 
-        TxtUmur.setEnabled(false);
+        TxtUmur.setEditable(false);
 
-        TxtUlangTahun.setEnabled(false);
+        TxtUlangTahun.setEditable(false);
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
